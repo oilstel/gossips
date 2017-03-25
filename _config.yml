@@ -1,0 +1,48 @@
+title: Gossip's Web
+timezone: America/New_York
+url: http://test.gossipsweb.net
+collections:
+  interviews:
+    title: Interviews
+    output: true
+  spaces:
+    title: Spaces
+    output: false
+defaults:
+  - scope:
+      path: ''
+      type: spaces
+    values:
+      title:
+      city:
+      url:
+      permalink: "/:title/"
+      layout: space
+  - scope:
+      path: ''
+      type: interviews
+    values:
+      title:
+      city:
+      url:
+      permalink: "/:title/"
+      layout: interview
+email: mail@clothesline.net
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+permalink: /:categories/:title/

@@ -1,0 +1,27 @@
+{% include _meta.html %}
+<link href="/css/interview.css" rel="stylesheet">
+</head>
+
+<body>
+  {% include _header.html %}
+
+  <section>
+
+    <div class="info">
+      <h2>{{ page.title }} on {{ page.date | date: '%B %-d, %Y' }}<h2>
+      <p>{{ page.description }}<p>
+    </div>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    <div id="triangle-mobile">
+      <a href="/">
+        <img src="/imgs/triangle.png">
+      </a>
+    </div>
+  </section>
+
+</body>
+</html>
