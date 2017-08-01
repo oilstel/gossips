@@ -1,5 +1,5 @@
 ---
-title: Marwan Marwan
+title: Marwan
 date: 2017-07-31 03:00:00 -05:00
 city: Amsterdam
 ext-url: http://www.marwanmarwan.com/
