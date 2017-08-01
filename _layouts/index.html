@@ -4,11 +4,9 @@
 <body>
   {% include _header.html %}
 
-  <a href="70836">
-    <div class="news-banner">
-      * Interview with Shahan Assadorian by Quintessa Matranga
-    </div>
-  </a>
+  <div class="interview">
+    <p><a href="70836">Extra</a></p>
+  </div>
 
   <div class="list">
     {% assign sorted = (site.spaces | sort: "city") %}
@@ -49,7 +47,7 @@
   </div>
 
   <div class="about">
-    <p><img id="triangle-float" src="{{ site.url }}/imgs/triangle.png">Gossip's Web is an index of {{ site.spaces | size }} artist-run sites. Submissions can be called in or texted to <a href="tel:+16612283141">+1 661–228–3141</a>. Gossip's supports non-comerical art projects and exhibitions. We are currently located in New York. <a href="http://eepurl.com/cF0-Rj">Subscribe to our occasional newsletter</a> for updates.</p>
+    <p><a href="tel:+16612283141">+1 661–228–3141</a></p>
   </div>
 
   <footer></footer>

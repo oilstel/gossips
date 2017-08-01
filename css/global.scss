@@ -1,20 +1,20 @@
 ---
 ---
 
-$bg-color: #6dce97;
+$bg-color: #688C5D;
 $text-color: #000;
 $gutter: 17px;
-$font-size: 20px;
-$font-size-med: 18px;
+$font-size: 16px;
+$font-size-med: 16px;
 
 body {
   padding: 1em;
-  font-family: Georgia, Times, serif;
+  font-family: Times, serif;
   -webkit-font-smoothing: antialiased;
   background-color: $bg-color;
   font-size: $font-size;
   color: $text-color;
-  line-height: 26px;
+  line-height: 3px;
 }
 
 .triangle {
@@ -46,14 +46,22 @@ a {
 p {
 }
 
+.interview {
+  font-size: $font-size;
+  position: absolute;
+  top: 2em;
+  right: 20px;
+}
+
 .about {
-  padding-top: 3em;
   font-size: $font-size;
   line-height: 35px;
   width: 60%;
-  padding-left: 1em;
   padding-right: 2em;
   max-width: 500px;
+}
+
+.about a, {
 }
 
 footer {
@@ -61,8 +69,13 @@ footer {
 }
 
 .intro {
+  padding-top: 1em;
   padding-bottom: 2em;
   font-size: $font-size;
+}
+
+.intro h1 {
+  font-weight: bold;
 }
 
 .intro a {
@@ -76,7 +89,7 @@ footer {
   margin-bottom: 1em;
   display: inline-block;
   border: none $text-color;
-  border-width: 0 0 1px 0;
+  border-width: 0 0 0px 0;
   font-size: $font-size;
 }
 
@@ -88,18 +101,16 @@ footer {
     width: 100%;
     margin: 0px auto;
     padding-top: 1em;
+    padding-bottom: 2em;
     font-size: $font-size-med;
 }
 
-.line-inner {
-  border: solid $text-color;
-  border-width: 1px 0px 0px 0px;
-  position: relative;
-}
+// .line-inner {
+//   border: solid $text-color;
+//   border-width: 1px 0px 0px 0px;
+//   position: relative;
+// }
 
-.line-inner:last-child {
-  border-width: 0px 0px 0px 0px;
-}
 
 .inner {
   float: left;

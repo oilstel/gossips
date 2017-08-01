@@ -1,10 +1,10 @@
 ---
 ---
 
-$bg-color: #6dce97;
-$text-color: #000;
+$bg-color: #fff;
+$text-color: #33542e;
 $gutter: 15px;
-$font-size: 19px;
+$font-size: 16px;
 $font-size-med: 16px;
 
 body {
@@ -17,15 +17,19 @@ body {
 }
 
 .info {
-  border: 1px solid $text-color;
-  padding: .8em .8em 0 .8em;
+  margin-top: 1em;
+  font-weight: bold;
   margin-bottom: 2em;
   width: 70%;
 }
 
+.info h2 {
+  text-decoration: underline;
+}
+
 section p {
   margin-bottom: 1em;
-  line-height: 30px;
+  line-height: 25px;
   padding-left: 20px;
 }
 
