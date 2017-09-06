@@ -49,13 +49,12 @@ p {
 .interview {
   font-size: $font-size;
   position: absolute;
-  top: 2em;
+  top: 1.6em;
   right: 20px;
 }
 
 .about {
   font-size: $font-size;
-  line-height: 35px;
   width: 60%;
   padding-right: 2em;
   max-width: 500px;
@@ -69,8 +68,8 @@ footer {
 }
 
 .intro {
-  padding-top: 1em;
-  padding-bottom: 2em;
+  padding-top: .6em;
+  padding-bottom: .6em;
   font-size: $font-size;
 }
 
@@ -105,11 +104,15 @@ footer {
     font-size: $font-size-med;
 }
 
-// .line-inner {
-//   border: solid $text-color;
-//   border-width: 1px 0px 0px 0px;
-//   position: relative;
-// }
+.line-inner {
+  border: solid $text-color;
+  border-width: 1px 1px 0px 1px;
+  position: relative;
+}
+
+.line-inner:last-child {
+  border-bottom: 1px solid #000;
+}
 
 
 .inner {
@@ -126,6 +129,7 @@ footer {
   border-width: 0 0px 0 0;
   margin: auto;
   padding: 12px;
+  border-width: 0 1px 0 0;
 }
 
 .url .innercap {
@@ -137,7 +141,7 @@ footer {
   clear: both;
 }
 
-@media (max-width: 805px) {
+@media (max-width: 575px) {
 .url {
     width: 100%;
     border-color: red;
@@ -154,6 +158,7 @@ footer {
     border-width: 0 1px 0 0;
     margin: auto;
     padding: 12px;
+    line-height: 20px;
   }
 
   .inner:last-child {
