@@ -155,7 +155,7 @@ footer {
 
   .innercap {
     border: solid $text-color;
-    border-width: 0 1px 0 0;
+    border-width: 1px;
     margin: auto;
     padding: 12px;
     line-height: 20px;
@@ -187,9 +187,6 @@ footer {
     width: auto;
   }
 
-  .line-inner:last-child {
-    border-bottom: 0px !important;
-  }
 }
 
 @media (max-width: 575px) {
