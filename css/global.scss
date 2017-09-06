@@ -155,7 +155,7 @@ footer {
 
   .innercap {
     border: solid $text-color;
-    border-width: 1px;
+    border-width: 0 1px 0 0;
     margin: auto;
     padding: 12px;
     line-height: 20px;
@@ -176,7 +176,7 @@ footer {
 
   .line-inner {
     margin-bottom: 20px;
-    border-width: 0 0px 0 0px;
+    border-width: 1px;
   }
 
   .city .innercap {
