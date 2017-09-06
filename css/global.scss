@@ -186,6 +186,10 @@ footer {
   .about {
     width: auto;
   }
+
+  .line-inner:last-child {
+    border-bottom: 0px !important;
+  }
 }
 
 @media (max-width: 575px) {
