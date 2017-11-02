@@ -53,6 +53,10 @@ p {
   right: 20px;
 }
 
+.interview p {
+  margin: 0 !important;
+}
+
 .about {
   font-size: $font-size;
   width: 60%;
