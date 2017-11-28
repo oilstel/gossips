@@ -13,7 +13,7 @@
     {% for space in sorted %}
       <div class="line-inner">
           <div class="inner title">
-            <a href="{{ space.ext-url }}">
+            <a href="{{ space.ext-url }}" target="_blank">
               <div class="innercap">
               {{ space.title }}
              </div>
@@ -27,7 +27,7 @@
           </div>
         </div>
 
-        <a href="{{ space.ext-url }}">
+        <a href="{{ space.ext-url }}" target="_blank">
           <div class="inner url">
             <div class="innercap">
             {% if space.living == false %}
