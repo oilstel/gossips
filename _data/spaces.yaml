@@ -1,0 +1,553 @@
+---
+
+- title: Sunroom
+  city: Virginia
+  ext-url: http://thesunroom.xyz/
+  nice-url: thesunroom.xyz
+  living: true
+
+
+- title: Prairie
+  city: Chicago
+  ext-url: http://prairie.website/
+  nice-url: prairie.website
+  living: true
+
+
+- title: Gern en Regalia
+  city: New York
+  ext-url: http://gernenregalia.com
+  nice-url: gernenregalia.com
+  living: true
+
+
+- title: Wreath
+  city: Atlanta
+  ext-url: http://www.wreath-atl.us/
+  nice-url: wreath-atl.us
+  living: true
+
+
+- title: The Orchards
+  city: Oregon
+  ext-url: http://www.theorchards.us/
+  nice-url: theorchards.us
+  living: true
+
+
+- title: Melbourne Offsite Index
+  city: Melbourne
+  ext-url: http://melbourneoffsiteindex.org/
+  nice-url: melbourneoffsiteindex.org
+  living: true
+
+
+- title: Marwan
+  city: Amsterdam
+  ext-url: http://www.marwanmarwan.com/
+  nice-url: marwanmarwan.com
+  living: true
+
+
+- title: Weekends
+  city: Paris
+  ext-url: http://www.weekendsweekendsweekends.com/
+  nice-url: weekendsweekends.com
+  living: true
+
+
+- title: Violet's Cafe
+  city: New York
+  ext-url: http://violetscafe.org/
+  nice-url: violetscafe.org
+  living: true
+
+
+- title: VI Dancer
+  city: San Francisco
+  ext-url: http://vi-dancer.net/
+  nice-url: vi-dancer.net
+  living: true
+
+
+- title: Veronica
+  city: Seattle
+  ext-url: http://www.businessnormal.com/
+  nice-url: businessnormal.com
+  living: true
+
+
+- title: Treize
+  city: Paris
+  ext-url: http://www.treize.site/
+  nice-url: treize.site
+  living: true
+
+
+- title: Sydney Sydney
+  city: Sydney
+  ext-url: http://www.sydneysydney.net/
+  nice-url: sydneysydney.net
+  living: true
+
+
+- title: Species
+  city: Atlanta
+  ext-url: http://inter-species.us/
+  nice-url: inter-species.us
+  living: true
+
+
+- title: The Sleeper
+  city: Alameda
+  ext-url: http://thesleeper.info/
+  nice-url: thesleeper.info
+  living: true
+
+
+- title: Shanaynay
+  city: Paris
+  ext-url: http://www.shanaynay.fr/
+  nice-url: shanaynay.fr
+  living: true
+
+
+- title: Rope
+  city: Baltimore
+  ext-url: http://508rope.net/
+  nice-url: 508rope.net
+  living: true
+
+
+- title: Roberta
+  city: Frankfurt
+  ext-url: http://roberta-projects.tumblr.com/
+  nice-url: roberta-projects.tumblr.com
+  living: true
+
+
+- title: Reserve Ames
+  city: Los Angeles
+  ext-url: http://reserveames.com/
+  nice-url: reserveames.com
+  living: true
+
+
+- title: Refresh
+  city: New York
+  ext-url: http://npanzer.com/refreshgallery.html
+  nice-url: npanzer.com
+  living: true
+
+
+- title: Rear Window
+  city: New York
+  ext-url: http://rearwindow.nyc/
+  nice-url: rearwindow.nyc
+  living: true
+
+
+- title: Punk Cafe
+  city: Melbourne
+  ext-url: http://punkcafe.net/
+  nice-url: punkcafe.net
+  living: true
+
+
+- title: Publishing House
+  city: Earth
+  ext-url: http://publishing-house.me/
+  nice-url: publishing-house.me
+  living: true
+
+
+- title: Princess
+  city: New York
+  ext-url: http://www.princessonline.nyc/
+  nice-url: princessonline.nyc
+  living: true
+
+
+- title: Pretty Days
+  city: Earth
+  ext-url: http://prettydays.life/
+  nice-url: prettydays.life
+  living: true
+
+
+- title: Poppy's
+  city: Sacramento
+  ext-url: http://poppys.info/
+  nice-url: poppys.info
+  living: true
+
+
+- title: Pied-à-terre
+  city: Half Moon Bay
+  ext-url: http://www.pied-terre.com/
+  nice-url: pied-terre.com
+  living: true
+
+
+- title: Oracle
+  city: Berlin
+  ext-url: http://theoracle.works/
+  nice-url: theoracle.works
+  living: true
+
+
+- title: On Purpose
+  city: San Rafael
+  ext-url: http://www.19933.biz/onpurpose.html
+  nice-url: 19933.biz
+  living: true
+
+
+- title: Odium Fati
+  city: San Francisco
+  ext-url: http://www.odiumfati.uno/
+  nice-url: odiumfati.uno
+  living: true
+
+
+- title: Obst
+  city: Chicago
+  ext-url: http://obst.cloud/
+  nice-url: obst.cloud
+  living: true
+
+
+- title: No Body Likes Being
+  city: Earth
+  ext-url: http://nobodylikesbeing.com
+  nice-url: nobodylikesbeing.com
+  living: true
+
+
+- title: Nitro Trail
+  city: Richmond
+  ext-url: http://nitrotrail.net/
+  nice-url: nitrotrail.net
+  living: true
+
+
+- title: New Scenario
+  city: Earth
+  ext-url: http://www.newscenario.net/
+  nice-url: newscenario.net
+  living: true
+
+
+- title: n/a
+  city: Oakland
+  ext-url: http://na-oakland.com/
+  nice-url: na-oakland.com
+  living: true
+
+
+- title: Muscle Beach
+  city: Portland
+  ext-url: http://www.muscle-beach.us/
+  nice-url: muscle-beach.us
+  living: false
+
+
+- title: Montague
+  city: London
+  ext-url: http://montague.space/
+  nice-url: montague.space
+  living: true
+
+
+- title: Mission Comics
+  city: San Francisco
+  ext-url: http://missioncomicsandartgallery.tumblr.com
+  nice-url: missioncomics.tumblr.com
+  living: true
+
+
+- title: Minibar
+  city: Stockholm
+  ext-url: http://minibarsthlm.com/
+  nice-url: minibarsthlm.com
+  living: true
+
+
+- title: The Middler
+  city: New York
+  ext-url: http://www.themiddler.com/
+  nice-url: themiddler.com
+  living: true
+
+
+- title: Metropolitan Structures
+  city: Baltimore
+  ext-url: http://metropolitanstructures.org/
+  nice-url: metropolitanstructures.org
+  living: true
+
+
+- title: Manila Institute
+  city: New York
+  ext-url: http://manilainstitute.org/
+  nice-url: manilainstitute.org
+  living: true
+
+
+- title: Lodos
+  city: Mexico City
+  ext-url: http://lodosgallery.info/
+  nice-url: lodosgallery.info
+  living: true
+
+
+- title: Lock Up International
+  city: Earth
+  ext-url: http://lockupinternational.com/
+  nice-url: lockupinternational.com
+  living: true
+
+
+- title: Left
+  city: Earth
+  ext-url: http://left.gallery/
+  nice-url: left.gallery
+  living: true
+
+
+- title: Kodomo
+  city: New York
+  ext-url: http://kodomo.us/
+  nice-url: kodomo.us
+  living: true
+
+
+- title: Kimberly Klark
+  city: New York
+  ext-url: http://kimberly-klark.com/
+  nice-url: kimberly-klark.com
+  living: true
+
+
+- title: Jupiter Woods
+  city: London
+  ext-url: http://jupiterwoods.com/
+  nice-url: jupiterwoods.com
+  living: true
+
+
+- title: Juicys Gallery
+  city: New York
+  ext-url: http://juicysgallery.info/
+  nice-url: juicysgallery.info
+  living: false
+
+
+- title: Interstate Projects
+  city: New York
+  ext-url: http://www.interstateprojects.org/
+  nice-url: interstateprojects.org
+  living: true
+
+
+- title: Important Projects
+  city: Oakland
+  ext-url: http://www.importantprojects.net/
+  nice-url: importantprojects.net
+  living: true
+
+
+- title: House
+  city: Carrollton
+  ext-url: http://house-gallery.tumblr.com/
+  nice-url: house-gallery.tumblr.com
+  living: false
+
+
+- title: Holy Motors
+  city: Hong Kong
+  ext-url: http://holymotorsproject.com/
+  nice-url: holymotorsproject.com
+  living: true
+
+
+- title: Hobby Group
+  city: Allen Park
+  ext-url: http://hobbygroup.info/
+  nice-url: hobbygroup.info
+  living: true
+
+
+- title: Full-Fall
+  city: Milan
+  ext-url: http://www.full-fall.it/
+  nice-url: full-fall.it
+  living: true
+
+
+- title: Franklin Street
+  city: Baltimore
+  ext-url: http://franklinstreet.info/
+  nice-url: franklinstreet.info
+  living: true
+
+
+- title: Exploding Jezebel
+  city: New York
+  ext-url: http://explodingjezebel.odie.us/
+  nice-url: explodingjezebel.odie.us
+  living: true
+
+
+- title: Evening Hours
+  city: New York
+  ext-url: http://eveninghoursny.com/
+  nice-url: eveninghoursny.com
+  living: true
+
+
+- title: Et al.
+  city: San Francisco
+  ext-url: http://etaletc.com/
+  nice-url: etaletc.com
+  living: true
+
+
+- title: Egg
+  city: Chicago
+  ext-url: http://www.eggg.co/
+  nice-url: eggg.co
+  living: true
+
+
+- title: Duck
+  city: Berlin
+  ext-url: http://theduck.cc/
+  nice-url: theduck.cc
+  living: true
+
+
+- title: dsdsdsds
+  city: London
+  ext-url: http://dsdsdsds.co.uk/
+  nice-url: dsdsdsds.co.uk
+  living: true
+
+
+- title: Drawing Homework
+  city: Earth
+  ext-url: http://www.drawinghomework.net/
+  nice-url: drawinghomework.net
+  living: true
+
+
+- title: Common Room
+  city: New York
+  ext-url: http://common-room.net/common-room-2/
+  nice-url: common-room.net
+  living: true
+
+
+- title: Chin's Push
+  city: Los Angeles
+  ext-url: http://www.chinspush.com/
+  nice-url: chinspush.com
+  living: true
+
+
+- title: Centre for Style
+  city: Melbourne
+  ext-url: http://www.centreforstyle.org/
+  nice-url: centreforstyle.org
+  living: true
+
+
+- title: Cave 3000
+  city: Berlin
+  ext-url: http://www.natasjaloutchko.se/index.php/cave3000/
+  nice-url: natasjaloutchko.se
+  living: true
+
+
+- title: BUG
+  city: New York
+  ext-url: http://b-u-g.site/
+  nice-url: b-u-g.site
+  living: true
+
+
+- title: Born Nude
+  city: Chicago
+  ext-url: http://bornnu.de/
+  nice-url: bornnu.de
+  living: true
+
+
+- title: Bed-Stuy Love Affair
+  city: New York
+  ext-url: http://www.bedstuyloveaffair.us/
+  nice-url: bedstuyloveaffair.us
+  living: true
+
+
+- title: Bebi
+  city: Earth
+  ext-url: http://www.bebispace.com/
+  nice-url: bebispace.com
+  living: false
+
+
+- title: Beautiful
+  city: Chicago
+  ext-url: http://beautifulgallery.us/
+  nice-url: beautifulgallery.us
+  living: false
+
+
+- title: Artspeak
+  city: Vancouver
+  ext-url: http://artspeak.ca/
+  nice-url: artspeak.ca
+  living: true
+
+
+- title: SQ
+  city: Earth
+  ext-url: http://www.squashclub.biz/
+  nice-url: squashclub.biz
+  living: true
+
+
+- title: LISZT
+  city: Berlin
+  ext-url: http://www.lisztliszt.de/
+  nice-url: lisztliszt.de
+  living: true
+
+
+- title: 63rd-77th STEPS
+  city: Bari
+  ext-url: http://63rd77thsteps.com/
+  nice-url: 63rd77thsteps.com
+  living: true
+
+
+- title: 3236RLS
+  city: London
+  ext-url: http://3236rls.com/
+  nice-url: 3236rls.com
+  living: true
+
+
+- title: 15orient
+  city: New York
+  ext-url: http://15orient.com/
+  nice-url: 15orient.com
+  living: true
+
+
+- title: 0dx
+  city: New York
+  ext-url: http://0dx.org/
+  nice-url: 0dx.org
+  living: true

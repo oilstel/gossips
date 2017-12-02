@@ -9,7 +9,7 @@
   </div>
 
   <div class="list">
-    {% assign sorted = (site.data.spaces  | sort: "city") %}
+    {% assign sorted = (site.spaces | sort: "city") %}
     {% for space in sorted %}
       <div class="line-inner">
           <div class="inner title">
@@ -48,7 +48,7 @@
 
   <div class="about">
     <p><a href="tel:+16612283141">+1 661–228–3141</a></p>
-    <p><a href="https://github.com/oilstel/gossips">Source</a>, <a href="api.json">API</a></p>
+    <p><a href="https://github.com/oilstel/gossips">/source</a></p>
   </div>
 
   <footer></footer>

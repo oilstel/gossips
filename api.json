@@ -1,0 +1,17 @@
+---
+layout: null
+---
+{
+  "gossips": [
+    {% assign sorted = (site.data.spaces  | sort: "city") %}
+    {% for space in sorted %}
+      {
+        "title": {{ space.title | jsonify  }},
+        "city": {{ space.city | jsonify  }},
+        "url": {{ space.ext-url | jsonify  }},
+        "living": {{ space.living | jsonify  }}
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
