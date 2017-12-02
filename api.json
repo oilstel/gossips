@@ -3,9 +3,9 @@ layout: null
 ---
 {
   "gossips": [
-    {% assign sorted = (site.data.spaces  | sort: "city") %}
-    {% for space in sorted %}
+    {% for space in site.data.spaces %}
       {
+        "id": {{ forloop.index }},
         "title": {{ space.title | jsonify  }},
         "city": {{ space.city | jsonify  }},
         "url": {{ space.ext-url | jsonify  }},
