@@ -42,13 +42,6 @@
   living: true
 
 
-- title: Artspeak
-  city: Vancouver
-  ext-url: http://artspeak.ca/
-  nice-url: artspeak.ca
-  living: true
-
-
 - title: Beautiful
   city: Chicago
   ext-url: http://beautifulgallery.us/
@@ -67,7 +60,7 @@
   city: New York
   ext-url: http://www.bedstuyloveaffair.us/
   nice-url: bedstuyloveaffair.us
-  living: true
+  living: false
 
 
 - title: Born Nude
@@ -81,7 +74,7 @@
   city: New York
   ext-url: http://b-u-g.site/
   nice-url: b-u-g.site
-  living: true
+  living: false
 
 
 - title: Cave 3000
@@ -102,7 +95,7 @@
   city: Los Angeles
   ext-url: http://www.chinspush.com/
   nice-url: chinspush.com
-  living: true
+  living: false
 
 
 - title: Common Room
@@ -200,14 +193,7 @@
   city: Oakland
   ext-url: http://www.importantprojects.net/
   nice-url: importantprojects.net
-  living: true
-
-
-- title: Interstate Projects
-  city: New York
-  ext-url: http://www.interstateprojects.org/
-  nice-url: interstateprojects.org
-  living: true
+  living: false
 
 
 - title: Juicys Gallery
@@ -235,7 +221,7 @@
   city: New York
   ext-url: http://kodomo.us/
   nice-url: kodomo.us
-  living: true
+  living: false
 
 
 - title: Left
@@ -291,7 +277,7 @@
   city: San Francisco
   ext-url: http://missioncomicsandartgallery.tumblr.com
   nice-url: missioncomics.tumblr.com
-  living: true
+  living: false
 
 
 - title: Montague
@@ -312,7 +298,7 @@
   city: Oakland
   ext-url: http://na-oakland.com/
   nice-url: na-oakland.com
-  living: true
+  living: false
 
 
 - title: New Scenario
@@ -326,7 +312,7 @@
   city: Richmond
   ext-url: http://nitrotrail.net/
   nice-url: nitrotrail.net
-  living: true
+  living: false
 
 
 - title: No Body Likes Being
@@ -368,7 +354,7 @@
   city: Half Moon Bay
   ext-url: http://www.pied-terre.com/
   nice-url: pied-terre.com
-  living: true
+  living: false
 
 
 - title: Poppy's
@@ -487,14 +473,14 @@
   city: San Francisco
   ext-url: http://vi-dancer.net/
   nice-url: vi-dancer.net
-  living: true
+  living: false
 
 
 - title: Violet's Cafe
   city: New York
   ext-url: http://violetscafe.org/
   nice-url: violetscafe.org
-  living: true
+  living: false
 
 
 - title: Weekends
