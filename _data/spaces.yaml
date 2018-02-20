@@ -361,7 +361,7 @@
   city: Sacramento
   ext-url: http://poppys.info/
   nice-url: poppys.info
-  living: true
+  living: false
 
 
 - title: Pretty Days
