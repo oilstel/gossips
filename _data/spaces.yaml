@@ -116,7 +116,7 @@
   city: London
   ext-url: http://dsdsdsds.co.uk/
   nice-url: dsdsdsds.co.uk
-  living: true
+  living: false
 
 
 - title: Duck
@@ -310,7 +310,7 @@
 
 - title: Nitro Trail
   city: Richmond
-  ext-url: http://nitrotrail.net/
+  ext-url: http://oils.rest/nitrotrail/
   nice-url: nitrotrail.net
   living: false
 
