@@ -354,7 +354,7 @@
   city: Half Moon Bay
   ext-url: http://www.pied-terre.com/
   nice-url: pied-terre.com
-  living: false
+  living: true
 
 
 - title: Poppy's
