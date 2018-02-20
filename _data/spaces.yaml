@@ -544,3 +544,10 @@
   ext-url: https://sleepyhollow.online/
   nice-url: sleepyhollow.online
   living: true
+
+
+- title: Loreem
+  city: New York
+  ext-url: http://loreem.org/
+  nice-url: loreem.org
+  living: true
