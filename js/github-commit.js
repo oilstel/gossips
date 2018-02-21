@@ -4,7 +4,7 @@ $(function() {
     url: 'https://api.github.com/repos/oilstel/gossips/commits?path=_data&page=1&per_page=1',
     dataType: 'json',
     type: 'get',
-    cache: true,
+    cache: false,
     success: function(data) {
 
       var commitRaw = data;
