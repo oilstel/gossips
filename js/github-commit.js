@@ -1,7 +1,7 @@
 $(function() {
 
   $.ajax({
-    url: 'https://api.github.com/repos/oilstel/gossips/commits?path=&page=1&per_page=1',
+    url: 'https://api.github.com/repos/oilstel/gossips/commits?path=_data&page=1&per_page=1',
     dataType: 'json',
     type: 'get',
     cache: true,
