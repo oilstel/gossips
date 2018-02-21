@@ -102,7 +102,7 @@
   city: New York
   ext-url: http://common-room.net/common-room-2/
   nice-url: common-room.net
-  living: true
+  living: false
 
 
 - title: Drawing Homework
