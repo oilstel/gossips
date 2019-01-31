@@ -389,7 +389,7 @@
   city: Melbourne
   ext-url: http://punkcafe.net/
   nice-url: punkcafe.net
-  living: true
+  living: false
 
 
 - title: Rear Window
