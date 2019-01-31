@@ -130,7 +130,7 @@
   city: Chicago
   ext-url: http://www.eggg.co/
   nice-url: eggg.co
-  living: true
+  living: false
 
 
 - title: Et al.
