@@ -256,7 +256,7 @@
   city: Baltimore
   ext-url: http://metropolitanstructures.org/
   nice-url: metropolitanstructures.org
-  living: true
+  living: false
 
 
 - title: The Middler
