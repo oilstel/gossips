@@ -73,7 +73,7 @@
   city: Chicago
   ext-url: http://bornnu.de/
   nice-url: bornnu.de
-  living: true
+  living: false
 
 
 - title: BUG
