@@ -1,5 +1,11 @@
 ---
 
+- title: "Aupuni Space"
+  city: Honolulu
+  ext-url: https://aupuni.space/
+  nice-url: aupuni.space
+  living: true
+
 - title: "4649"
   city: Tokyo
   ext-url: http://4-6-4-9.jp/
