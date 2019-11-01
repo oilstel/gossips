@@ -1,5 +1,11 @@
 ---
 
+- title: "kantine"
+  city: Brussels 
+  ext-url: http://www.kantine.space/
+  nice-url: kantine.space
+  living: true
+
 - title: "Aupuni Space"
   city: Honolulu 
   ext-url: https://aupuni.space/
