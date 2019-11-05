@@ -1,5 +1,11 @@
 ---
 
+- title: "Mole End"
+  city: New York 
+  ext-url: http://www.mole-end.online/
+  nice-url: mole-end.online
+  living: true
+
 - title: "kantine"
   city: Brussels 
   ext-url: http://www.kantine.space/
